@@ -18,7 +18,7 @@ Cada grupo será responsável por estudar, preparar e apresentar um tópico fund
 ## 📚 Tópicos e Guias de Conteúdo
 
 ### 🧩 Grupo 1 – Como Funciona a Internet
-
+Integrantes: Jeanderson, Yago, Rogério, Leonardo, Arthur
 **Objetivo:** Apresentar uma visão geral de como os dados trafegam na internet até chegarem a um servidor.
 
 **Pontos a abordar:**
@@ -32,7 +32,7 @@ Cada grupo será responsável por estudar, preparar e apresentar um tópico fund
 ---
 
 ### 🌐 Grupo 2 – O que é um Servidor Web
-
+Integrantes: Matheus, Maria, Stevao, Leandro, Pedro, Lucas
 **Objetivo:** Explicar o papel do servidor web no funcionamento de uma aplicação.
 
 **Pontos a abordar:**
@@ -46,7 +46,7 @@ Cada grupo será responsável por estudar, preparar e apresentar um tópico fund
 ---
 
 ### ⚙️ Grupo 3 – O que é um Servidor Backend
-
+Integrantes: Ana, Emanuel, Gustavo, Ariel, Adrian, Nathan
 **Objetivo:** Apresentar o papel do backend na aplicação e sua integração com o frontend.
 
 **Pontos a abordar:**
@@ -60,7 +60,7 @@ Cada grupo será responsável por estudar, preparar e apresentar um tópico fund
 ---
 
 ### 🗄️ Grupo 4 – O que é um Servidor de Banco de Dados
-
+Integrantes: Liuji, Felipe, Alexandre, Gustavo, Mari
 **Objetivo:** Explicar o papel do banco de dados no armazenamento e recuperação de informações.
 
 **Pontos a abordar:**
