@@ -46,7 +46,7 @@ Integrantes: Matheus, Maria, Stevao, Leandro, Pedro, Lucas
 ---
 
 ### ⚙️ Grupo 3 – O que é um Servidor Backend
-Integrantes: Ana, Emanuel, Gustavo, Ariel, Adrian, Nathan
+Integrantes: Ana, Emanuel, Gustavo, Ariel, Adrian, Natan
 **Objetivo:** Apresentar o papel do backend na aplicação e sua integração com o frontend.
 
 **Pontos a abordar:**
