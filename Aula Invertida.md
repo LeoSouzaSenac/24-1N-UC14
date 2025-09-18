@@ -10,10 +10,8 @@ Cada grupo será responsável por estudar, preparar e apresentar um tópico fund
 
 - A turma será dividida em **4 grupos**.
 - Cada grupo ficará responsável por **1 tópico principal** (veja abaixo).
-- A apresentação deve durar entre **8 a 10 minutos**.
 - Os grupos devem utilizar **exemplos visuais ou demonstrações simples** sempre que possível (imagens, analogias, prints, ferramentas online etc.).
-- O conteúdo pode ser apresentado em slides, quadro branco ou demonstrações práticas.
-- Ao final, o grupo deve propor **2 perguntas rápidas** para revisar o conteúdo com a turma.
+- O conteúdo pode ser apresentado em slides.
 
 ---
 
@@ -72,16 +70,6 @@ Cada grupo será responsável por estudar, preparar e apresentar um tópico fund
 - Como o backend se conecta ao banco (string de conexão)
 - Segurança básica: usuário, senha e permissões
 - Conceito de consultas (SELECT, INSERT, UPDATE, DELETE)
-
----
-
-## ✅ Avaliação
-
-- Clareza na explicação
-- Organização do conteúdo
-- Exemplos e analogias utilizados
-- Participação equilibrada entre os integrantes
-- Respostas às perguntas da turma
 
 ---
 
